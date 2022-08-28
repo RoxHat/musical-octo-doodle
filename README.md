@@ -2,4 +2,4 @@
 
 my first git repo
 
-by RoxHat and Chris
+by RoxHat also Chris is involved
